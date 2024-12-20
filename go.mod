@@ -1,4 +1,4 @@
-module github.com/Naghiyev/go-lang-rest-lib
+module github.com/Naghiyev/golang-rest-api-lib
 
 go 1.23.2
 
